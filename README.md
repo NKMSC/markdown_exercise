@@ -1,4 +1,4 @@
-# markdown_exerexercise
+# markdown_exercise
 for markdown  
 
 每位技术部成员完成sublime及其插件的安装后  
